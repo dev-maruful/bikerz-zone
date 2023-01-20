@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+/* .carousel-btn-bg{
+    background: red;
+    opacity: 50%;
+    color: white;
+} */
+.hr-border, .color, .span-one{
+    color: #E76F51;
+}
+.color-two{
+    color: #6C6C6C;
+}
